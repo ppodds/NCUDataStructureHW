@@ -4,6 +4,8 @@
 
 National Central University Data Structure Homework (Backup)
 
+I try to use C language to complete all homeworks in this class. I hope this would make me learn more.
+
 ## Environment (Online Judge)
 
 - C ( GCC 5.4 )
