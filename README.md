@@ -1,7 +1,5 @@
 # NCUDataStructureHW (1101)
 
----
-
 National Central University Data Structure Homework (Backup)
 
 I try to use C language to complete all homeworks in this class. I hope this would make me learn more.
