@@ -65,14 +65,13 @@ void addIndex(LinkedList *list, int index, int value)
             cur->front->rear = node;
             node->rear = cur;
             cur->front = node;
+            list->size++;
         }
         else
             addFront(list, value);
     }
     else
         addBack(list, value);
-
-    list->size++;
 }
 
 void deleteIndex(LinkedList *list, int index)
